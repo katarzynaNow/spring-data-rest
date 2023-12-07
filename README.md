@@ -2,3 +2,4 @@
 
 This repository is for an example application built in my Spring Framework 6 - Beginner to Guru online course.
 
+18. Introduction to Spring Data REST
